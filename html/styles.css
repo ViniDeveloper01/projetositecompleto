@@ -1,0 +1,107 @@
+.header {
+    background-color: rgba(54, 43, 43, 0.425);
+    border: double;
+    text-align: center;
+    font-family: system-ui;
+    text-indent: initial;
+    display: block;
+}
+#ex {
+width: 90px;
+left: 10px;
+position: relative;
+bottom: 99px;
+display: block;
+}
+.main {
+    text-indent: inherit;
+    margin: 150px;
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+    display: block;
+    text-size-adjust: 10000px;
+}
+.menu {
+    position: fixed;
+    bottom: 150px;
+    background-color: #362b2b6c;
+    border: double;
+    width: 200px;
+    height: 400px;
+    text-align: center;
+    font-family: system-ui;
+}
+html {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    max-width: max-content;
+    padding: 10px;
+}
+
+.t {
+    background-color: blanchedalmond;
+    margin: 30px;
+    padding: 1px;
+    height: 1700px;
+    width: 1300px;
+    display: block;
+    max-width: max-content;
+}
+.hor {
+    border: transparent;
+    background-color: #362b2b6c;
+    text-align: center;
+    width: 471px;
+    height: 142px;
+    left: 830px;
+    position: relative;
+    bottom: 250px;
+    font-family: system-ui;
+}
+.help {
+    background-color: rgba(54, 43, 43, 0.425);
+    border: double;
+    text-align: center;
+    font-family: system-ui;
+    text-indent: initial;
+    position: relative;
+    bottom: 530px;
+    width: 420px;
+    left: 859px;
+}
+.form {
+    position: relative;
+    left: 360px;
+    bottom: 630px;
+    width: 300px;
+    border: double;
+    background-color: #362b2b6c;
+    font-family: system-ui;
+    text-align-last: center;
+    
+}
+
+.x {
+    position: relative;
+    left: 300px;
+    bottom: 639px;
+    border: double;
+    background-color: #362b2b6c;
+    width: 400px;  
+    height: 60px;
+    text-align: center;
+    display: block;
+}
+.em {
+    left: 1px;
+    position: relative;
+}
+.ass {
+    right: 6px;
+    position: relative;
+}
+.mens {
+    left: 17px;
+    position: relative;
+}
